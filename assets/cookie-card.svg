@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff3c9" />
+      <stop offset="100%" stop-color="#ffd0f0" />
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="384" height="244" rx="32" fill="url(#card-bg)" stroke="#ffd66b" stroke-width="4" />
+  <circle cx="120" cy="120" r="64" fill="#ff9a62" />
+  <circle cx="104" cy="104" r="10" fill="#2c1e35" opacity="0.4" />
+  <circle cx="148" cy="132" r="12" fill="#2c1e35" opacity="0.4" />
+  <circle cx="132" cy="92" r="8" fill="#2c1e35" opacity="0.35" />
+  <text x="200" y="120" font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#2c1e35">
+    Honeybear
+  </text>
+  <text x="200" y="160" font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="500" fill="#2c1e35">
+    Gourmet Cookies &amp; Treats
+  </text>
+</svg>

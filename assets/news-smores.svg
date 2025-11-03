@@ -1,0 +1,9 @@
+<svg width="320" height="220" viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="220" rx="24" fill="#fff5e6" stroke="#f0a14a" stroke-width="4"/>
+  <g transform="translate(80 60)">
+    <rect x="0" y="70" width="160" height="50" rx="20" fill="#8c4f2b"/>
+    <rect x="10" y="40" width="140" height="40" rx="18" fill="#f7e9d3"/>
+    <circle cx="80" cy="28" r="26" fill="#fff"/>
+  </g>
+  <text x="50%" y="82%" text-anchor="middle" font-family="'Poppins', sans-serif" font-size="18" font-weight="600" fill="#8c4f2b">S'mores Round-Up</text>
+</svg>

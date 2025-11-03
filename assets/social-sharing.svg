@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe3d6" />
+      <stop offset="100%" stop-color="#ffd0f0" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9a62" />
+      <stop offset="100%" stop-color="#ff6f91" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" rx="48" ry="48" />
+  <g transform="translate(120,120)">
+    <g fill="#fff3c9" opacity="0.5">
+      <circle cx="180" cy="40" r="32" />
+      <circle cx="520" cy="160" r="24" />
+      <circle cx="340" cy="280" r="20" />
+      <circle cx="640" cy="40" r="18" />
+      <circle cx="420" cy="100" r="26" />
+    </g>
+    <g transform="translate(0,48)">
+      <path fill="#ff9fb0" d="M120 120c0-40 32-72 72-72s72 32 72 72-32 72-72 72-72-32-72-72z" opacity="0.6" />
+      <path fill="#ffd66b" d="M384 168c0-40 32-72 72-72s72 32 72 72-32 72-72 72-72-32-72-72z" opacity="0.5" />
+      <path fill="#a3dff6" d="M540 48c0-26.5 21.5-48 48-48s48 21.5 48 48-21.5 48-48 48-48-21.5-48-48z" opacity="0.5" />
+    </g>
+    <text x="0" y="320" font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif" font-size="72" font-weight="700" fill="#2c1e35">
+      Honeybear Bake Shop
+    </text>
+    <text x="0" y="390" font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="500" fill="#2c1e35">
+      Charlotte’s Best Cookies &amp; Sweet Treats
+    </text>
+    <rect x="0" y="430" width="420" height="72" rx="36" fill="url(#accent)" />
+    <text x="44" y="480" font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="600" fill="#ffffff">
+      Order This Week’s Box →
+    </text>
+  </g>
+</svg>
