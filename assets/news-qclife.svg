@@ -1,0 +1,5 @@
+<svg width="320" height="220" viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="220" rx="24" fill="#f0f7ff" stroke="#7bb9ff" stroke-width="4"/>
+  <text x="50%" y="45%" text-anchor="middle" font-family="'Poppins', sans-serif" font-size="26" font-weight="700" fill="#2875d8">QC Life</text>
+  <text x="50%" y="70%" text-anchor="middle" font-family="'Poppins', sans-serif" font-size="18" font-weight="500" fill="#2875d8">Kitchen Feature</text>
+</svg>

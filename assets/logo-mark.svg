@@ -1,0 +1,12 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bear-gradient" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#fff4ea"/>
+      <stop offset="100%" stop-color="#f7b8d3"/>
+    </radialGradient>
+  </defs>
+  <circle cx="40" cy="40" r="36" fill="url(#bear-gradient)" stroke="#2f2a2f" stroke-width="2"/>
+  <circle cx="28" cy="30" r="6" fill="#2f2a2f"/>
+  <circle cx="52" cy="30" r="6" fill="#2f2a2f"/>
+  <path d="M28 48c4 6 20 6 24 0" fill="none" stroke="#2f2a2f" stroke-width="3" stroke-linecap="round"/>
+</svg>
